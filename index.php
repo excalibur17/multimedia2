@@ -10,6 +10,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <style>
     /* Menggunakan Google Font */
+    html {
+      scroll-behavior: smooth;
+    }
+
     body {
       background-color: #000000;
       /* Body hitam */
